@@ -3,3 +3,5 @@
 def #parrot (phrase = "Squawk!")
  phrase = parrot
 end
+ 
+ phrase
