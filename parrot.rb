@@ -4,4 +4,4 @@ def parrot (name)
  name = ("Squawk!")
 end
 
-parrot
+parrot ("Pretty Bird!")
