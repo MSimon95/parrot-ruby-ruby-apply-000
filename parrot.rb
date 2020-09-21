@@ -1,7 +1,7 @@
 # Create method `parrot` that outputs a given phrase and
 # returns the phrase
 def #parrot (phrase = "Squawk!")
- ;phrase = parrot
+ phrase = ;parrot
 end
  
  parrot ("Pretty Bird!")
