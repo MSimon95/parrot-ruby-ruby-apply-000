@@ -2,8 +2,8 @@
 # returns the phrase
 def parrot (phrase = "Squawk!")
  
-puts phrase = parrot
-parrot = ("Pretty Bird!")
+puts phrase = name
+name = ("Pretty Bird!")
 
 end
  
